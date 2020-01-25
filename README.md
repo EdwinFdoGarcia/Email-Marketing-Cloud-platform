@@ -1,8 +1,8 @@
 # Email Marketing Cloud Platform
 
-![Email-Marketing-Cloud-platform ](/amazon-ses.png)
+![Email-Marketing-Cloud-platform ](images/amazon-ses.png)
 
-**Email Marketing Cloud platform Platform** to manage and send our admissions campaigns, direct communication with students and parents. 
+**Email Marketing Cloud Platform** to manage and send our admissions campaigns, direct communication with students and parents. 
 **Amazon Simple Email Service (Amazon SES)** Asia Pacific (Mumbai), Asia Pacific (Sydney), and EU (Frankfurt) Regions, in addition to the US East (Virginia), US West (Oregon), and Europe (Ireland) regions. 
 
 
@@ -17,6 +17,13 @@
 
 
 ----
-![Email-Marketing-Cloud-platform ](/login.png)
-![Email-Marketing-Cloud-platform ](/quota.png)
-![Email-Marketing-Cloud-platform ](/reporte.png)
+
+![Email-Marketing-Cloud-platform ](images/login.png)
+
+----
+
+![Email-Marketing-Cloud-platform ](images/quota.png)
+
+----
+
+![Email-Marketing-Cloud-platform ](images/reporte.png)
